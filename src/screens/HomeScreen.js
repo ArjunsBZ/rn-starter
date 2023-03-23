@@ -25,7 +25,7 @@ const HomeScreen = ({navigation}) => {
   />
   <Button
   onPress={() => navigation.navigate('Square')}
-   title="Go TO Squarescreen"
+   title="Go TO SSquarescreen"
   />
   </View>
   ); 
